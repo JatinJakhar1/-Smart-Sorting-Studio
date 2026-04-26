@@ -172,12 +172,8 @@ Priya - 92
 ## 🔮 Future Improvements
 
 * 🌐 Convert into web-based UI (HTML/CSS/JS)
-* 📊 Add charts for comparison
-* 📁 Allow custom dataset upload
-* 🔗 Connect frontend with C++ backend
-* 🎨 Add sorting animations
-
----
+* 📊 Add charts for comparisongit branch -M main
+git push -u origin main
 
 ## 👤 Author
 
