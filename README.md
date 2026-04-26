@@ -177,7 +177,7 @@ git push -u origin main
 
 ## 👤 Author
 
-**Ashutosh Verma**
+**Jatin Kumar**
 🎓 CSE Student | Chandigarh University
 
 ---
